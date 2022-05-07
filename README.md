@@ -4,7 +4,12 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 [![GitHub stars](https://img.shields.io/github/stars/HossamBalaha/An-Optimized-Deep-Learning-Approach-for-Suicide-Detection-through-Arabic-Tweets.svg?style=social&label=Star&maxAge=2592000)](https://github.com/HossamBalaha/An-Optimized-Deep-Learning-Approach-for-Suicide-Detection-through-Arabic-Tweets/stargazers/) [![GitHub followers](https://img.shields.io/github/followers/HossamBalaha.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/HossamBalaha?tab=followers) [![GitHub watchers](https://img.shields.io/github/watchers/HossamBalaha/An-Optimized-Deep-Learning-Approach-for-Suicide-Detection-through-Arabic-Tweets.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/HossamBalaha/An-Optimized-Deep-Learning-Approach-for-Suicide-Detection-through-Arabic-Tweets/watchers/)
 
-## (1) Authors:
+## (1) Files:
+* Code: `Twitter Suicide - Mimic Script.py`.
+* Excel Dataset: `انتحار_filtered_tweets.xlsx`.
+* CSV Dataset: `انتحار_filtered_tweets.csv`.
+
+## (2) Authors:
 * **Nadiah A. Baghdadi** (College of Nursing, Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia)
 * **Amer Malki** (Taibah University, College of Computer Science and Engineering, Yanbu, Saudi Arabia)
 * **Hossam Magdy Balaha** (Computers and Control Systems Engineering Department, Faculty of Engineering, Mansoura University, Egypt)
@@ -12,26 +17,26 @@
 * **Mahmoud Badawy** (Computers and Control Systems Engineering Department, Faculty of Engineering, Mansoura University, Egypt)
 * **Mostafa Elhosseini** (Taibah University, College of Computer Science and Engineering, Yanbu, Saudi Arabia & Computers and Systems Engineering Department, Faculty of Engineering, Mansoura University, Mansoura, Egypt)
 
-## (2) Abstract:
+## (3) Abstract:
 WILL BE WRITTEN UPON ACCEPTANCE!
 
 
-## (3) Keywords:
+## (4) Keywords:
 * Arabic BERT.
 * Arabic Tweets.
 * Deep Learning (DL).
 * Suicide Detection.
 * Universal Sentense Encoder (USE).
 
-## (4) Paper Information:
+## (5) Paper Information:
 * DOI: 
 * Link: 
 
-## (5) Citation:
+## (6) Citation:
 Cite this as:
 WILL BE WRITTEN UPON ACCEPTANCE!
 
-## (6) Licence:
+## (7) Licence:
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 The **An Optimized Deep Learning Approach for Suicide Detection through Arabic Tweets** script is licensed by **CC BY-NC-SA 4.0**.
@@ -40,5 +45,5 @@ The **An Optimized Deep Learning Approach for Suicide Detection through Arabic T
 
 Full Description: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-## (7) More Information About Me:
+## (8) More Information About Me:
 Online CV: https://hossambalaha.github.io/
